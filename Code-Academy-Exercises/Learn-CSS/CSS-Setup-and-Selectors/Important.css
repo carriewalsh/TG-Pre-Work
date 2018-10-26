@@ -1,0 +1,34 @@
+h5, p {
+    font-family: Georgia;
+  }
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+h5 {
+  color: rebeccapurple !important;
+}
+.description h5 {
+  color : teal;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+ color: grey;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* 15 I learned that the most most specific way to style an element is with the !important tag*/

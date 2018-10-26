@@ -1,0 +1,33 @@
+h5, p {
+    font-family: Georgia;
+  }
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+h5 {
+  color: rebeccapurple !important;
+}
+.description h5 {
+  color : teal;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+ color: grey;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+/* 16 I learned that another way not to repeat code is by combining elements and separating them with a comma*/

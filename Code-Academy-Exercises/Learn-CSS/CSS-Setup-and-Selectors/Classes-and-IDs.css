@@ -1,0 +1,34 @@
+h5, p {
+    font-family: Georgia;
+  }
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+h5 {
+  color: rebeccapurple !important;
+}
+.description h5 {
+  color : teal;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+ color: grey;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* 10 I learned that it is best to find the most parsimonious way to style pages and avoid doubling up. This is done through classes and id's*/

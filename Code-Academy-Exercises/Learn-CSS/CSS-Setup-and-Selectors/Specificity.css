@@ -1,0 +1,33 @@
+h5, p {
+    font-family: Georgia;
+  }
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+h5 {
+  color: rebeccapurple !important;
+}
+.description h5 {
+  color : teal;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+ color: grey;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+/* 11 I learned that it's important to keep some overriding open by creating classes for specific style choices. This way an id tag can fully override all over class styles*/
